@@ -4,6 +4,7 @@ The San Francisco Department of Public Health (SFDPH) conducts routine health in
 
 ### Data Analysis: [Link](https://docs.google.com/spreadsheets/d/13W1oCbMFhBDqglMESXc7SKuLq6eT0CQG7VjtIPhs1gg/edit?usp=sharing)
 Out of a total of 53973 inspections, unscheduled routine inspections account for more than half of it (39638). This is surprising because I thought that routine inspections were usually scheduled, not surprises. I also found that low risk establishments had the highest number of inspections. I think this shows that most of the city’s establishments are not in high risk of the inspections which is good. The data represents the number of inspections and not the number of restaurants or severity of violations. There's some restaurants that might have been inspected multiple times during the period so a higher inspection count can’t necessarily say that the establishment has poor food safety practices. 
+
 ![xx](chart.png)
 ![xx](chart2.png)
 ![xx](chart1.png)
